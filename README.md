@@ -3,8 +3,8 @@
 * 
 # Dataset folder 
 This folder contains several Datasets that we use throughout the course
-# Examples folder 
-This folder contains several Models that we use throughout the course:
+# Examples  
+Several Models and packages intro that we use throughout the course:
 * Pandas: introduction to Pandas package
 
 
