@@ -5,6 +5,12 @@
 This folder contains several Datasets that we use throughout the course
 # Python code
 * Pandas: introduction to Pandas package
+* classification problems 1:
+  -  In this section, we provide a practical application for several classification models for different types of data.
+
+  -  The goal is to familiarize ourselves with various machine learning models available in the scikit-learn library and understand how to invoke and configure these models.
+
+  -  Additionally, we aim to explore new types of data, specifically images, and how to handle them using these models.
 
 
 # Support
