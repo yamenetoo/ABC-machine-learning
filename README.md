@@ -17,7 +17,7 @@ This folder contains several Datasets that we use throughout the course
 
 * SklearnPreprocessingData
   
-In this section, we illustrate preprocessing tasks, transforming raw data before inputting it into a model. Tasks include cleaning data by addressing missing values, duplicates, and errors, transforming numerical and categorical features, reducing dimensionality, splitting data for training and testing, addressing imbalanced data, scaling features, and normalizing distributions. The quality of preprocessing significantly influences model performance and generalization, with specific steps depending on the data's nature and algorithm requirements.
+  In this section, we illustrate preprocessing tasks, transforming raw data before inputting it into a model. Tasks include cleaning data by addressing missing values, duplicates, and errors, transforming numerical and categorical features, reducing dimensionality, splitting data for training and testing, addressing imbalanced data, scaling features, and normalizing distributions. The quality of preprocessing significantly influences model performance and generalization, with specific steps depending on the data's nature and algorithm requirements.
 
 # Support
 
